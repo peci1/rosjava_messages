@@ -21,7 +21,7 @@ bride_tutorials 0.3.3
 calibration_msgs 0.10.13
 camera1394 1.10.0
 capabilities 0.2.0
-carl_moveit 0.0.6
+carl_moveit 0.0.7
 carl_navigation 0.0.9
 cob_base_drive_chain 0.6.2
 cob_camera_sensors 0.6.2
@@ -92,7 +92,7 @@ image_exposure_msgs 0.11.0
 image_view2 1.0.62
 interaction_cursor_msgs 0.0.3
 interactive_marker_proxy 0.1.2
-interactive_world_msgs 0.0.3
+interactive_world_msgs 0.0.4
 jackal_msgs 0.5.1
 jsk_footstep_controller 0.1.5
 jsk_footstep_msgs 1.0.62
@@ -171,7 +171,7 @@ pr2_tilt_laser_interface 0.0.5
 program_queue 1.0.9
 qt_tutorials 0.2.7
 rail_pick_and_place_msgs 0.0.1
-rail_segmentation 0.0.4
+rail_segmentation 0.0.5
 razer_hydra 0.2.1
 resized_image_transport 0.2.3
 rmp_msgs 0.0.1
@@ -250,6 +250,6 @@ wfov_camera_msgs 0.11.0
 wge100_camera 1.8.2
 wifi_ddwrt 0.2.0
 world_canvas_msgs 0.1.0
-wpi_jaco_msgs 0.0.14
+wpi_jaco_msgs 0.0.15
 yocs_msgs 0.6.3
 zeroconf_msgs 0.2.1
